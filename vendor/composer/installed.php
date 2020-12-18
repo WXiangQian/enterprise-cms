@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v6.20.0',
-    'version' => '6.20.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'be249612720f69846cff1343138a8840d1771b8c',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -25,6 +25,15 @@
         0 => '*',
       ),
     ),
+    'dcat/laravel-admin' => 
+    array (
+      'pretty_version' => '2.0.11-beta',
+      'version' => '2.0.11.0-beta',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '13a2fba081a4123d2a396fec2fa6b65a0cfd875d',
+    ),
     'dnoegel/php-xdg-base-dir' => 
     array (
       'pretty_version' => 'v0.1.1',
@@ -33,6 +42,33 @@
       array (
       ),
       'reference' => '8f8a6e48c5ecb0f991c2fdcf5f154a47d85f9ffd',
+    ),
+    'doctrine/cache' => 
+    array (
+      'pretty_version' => '1.10.2',
+      'version' => '1.10.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '13e3381b25847283a91948d04640543941309727',
+    ),
+    'doctrine/dbal' => 
+    array (
+      'pretty_version' => '2.12.1',
+      'version' => '2.12.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'adce7a954a1c2f14f85e94aed90c8489af204086',
+    ),
+    'doctrine/event-manager' => 
+    array (
+      'pretty_version' => '1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '41370af6a30faa9dc0368c4a6814d596e81aba7f',
     ),
     'doctrine/inflector' => 
     array (
@@ -374,12 +410,12 @@
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v6.20.0',
-      'version' => '6.20.0.0',
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'be249612720f69846cff1343138a8840d1771b8c',
     ),
     'laravel/tinker' => 
     array (
@@ -639,8 +675,8 @@
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
@@ -830,6 +866,15 @@
       ),
       'reference' => 'c6c1022351a901512170118436c764e473f6de8c',
     ),
+    'spatie/eloquent-sortable' => 
+    array (
+      'pretty_version' => '3.10.0',
+      'version' => '3.10.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'efc786971d5308ff75d5af8e04f7f759dd8450c2',
+    ),
     'swiftmailer/swiftmailer' => 
     array (
       'pretty_version' => 'v6.2.4',
@@ -874,6 +919,15 @@
       array (
       ),
       'reference' => '5fa56b4074d1ae755beb55617ddafe6f5d78f665',
+    ),
+    'symfony/dom-crawler' => 
+    array (
+      'pretty_version' => 'v5.2.0',
+      'version' => '5.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0969122fe144dd8ab2e8c98c7e03eedc621b368c',
     ),
     'symfony/error-handler' => 
     array (

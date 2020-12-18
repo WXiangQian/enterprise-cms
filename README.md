@@ -3,7 +3,7 @@
  enterprise-cms （开发中，暂时请勿线上使用，只供学习）
 </h2>
 <p align="center">
-基于laravel6+laravel-admin2.0开发的办公用品管理系统，适用于中小型企业，项目内有查询快递功能，方便用户知道购买的办公用品的具体信息。新增导出excel功能方便公司对数据进行管理
+基于laravel6+dcat-admin.*开发的办公用品管理系统，适用于中小型企业，项目内有查询快递功能，方便用户知道购买的办公用品的具体信息。新增导出excel功能方便公司对数据进行管理
 </p>
 
 
@@ -15,9 +15,9 @@
 
 ```
 本项目可以直接用，也可以用于二次开发，二次开发具体看相关文档
-laravel版本为6.*、laravel-admin版本为2.0.*
+laravel版本为6.*、dcat-admin版本为2.0.*
 ```
-[laravel-admin2.0文档地址](https://laravel-admin.org/docs/zh/2.x)
+[dcat-admin2.0文档地址](http://www.dcatadmin.com/docs/2.x/introduction.html)
 
 ### 克隆仓库
 ```
